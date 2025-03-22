@@ -1,0 +1,35 @@
+{
+	"name": "Market of Time",
+	"description": "Restores and reimagines the unused 'Market of Time' object, which appeared in Heroes III: Restoration of Erathia without functionality. Now, this mysterious place allows heroes to forget one of their learned secondary skills once per month—for a price.",
+	"modType": "Objects",
+	"author": "George King",
+	"contact": "http://forum.vcmi.eu/index.php",
+	"version": "1.0",
+    "compatibility" : {
+        "min" : "1.7.0"
+    },
+	"objects": [
+		"config/marketOfTime.json"
+	],
+	"chinese": {
+		"name": "时间市场",
+		"description": "还原并重新构想了《英雄无敌 III：埃拉西亚的复兴》中出现但无功能的“时间市场”对象。现在，这个神秘之地允许英雄每月花费金币遗忘一项已学的次级技能。",
+		"translations" : [
+			"translation/chinese.json"
+		]
+	},
+	"czech": {
+		"name": "Trh času",
+		"description": "Oživuje a přepracovává objekt „Trh času“, který se objevil v Heroes III: Restoration of Erathia, ale nikdy nedostal žádnou funkci. Nyní toto tajuplné místo umožňuje hrdinům zapomenout jednu ze svých sekundárních dovedností jednou za měsíc – za úplatu.",
+		"translations" : [
+			"translation/czech.json"
+		]
+	},
+	"polish": {
+		"name": "Targ Czasu",
+		"description": "Przywraca i przekształca obiekt 'Targ Czasu', który pojawił się w Heroes III: Restoration of Erathia, lecz nie posiadał żadnej funkcji. Teraz to tajemnicze miejsce pozwala bohaterom zapomnieć jedną z umiejętności drugorzędnych raz w miesiącu – za opłatą.",
+		"translations" : [
+			"translation/polish.json"
+		]
+	}
+}
