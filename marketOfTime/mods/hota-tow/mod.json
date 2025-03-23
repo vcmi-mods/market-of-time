@@ -12,6 +12,10 @@
 		"hota.interference",
 		"tides-of-war.skills"
 	],
+	"softDepends" : [
+		"marketOfTime.hota",
+		"marketOfTime.tow"
+	],
 	"objects": [
 		"config/marketOfTime.json"
 	]
