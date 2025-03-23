@@ -16,8 +16,7 @@
 		"1.0.0" : [ "Initial release" ]
 	},
 	"objects": [
-		"config/marketOfTime.json",
-		"config/fishingWell.json"
+		"config/marketOfTime.json"
 	],
 	"chinese": {
 		"name": "时间市场",
