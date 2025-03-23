@@ -8,6 +8,13 @@
     "compatibility" : {
         "min" : "1.7.0"
     },
+	"changelog" : 
+	{ 
+		"1.0.3" : [ "ToW Intimidation + Hexes with HotA Interference together support" ],
+		"1.0.2" : [ "ToW Intimidation + Hexes support" ],
+		"1.0.1" : [ "HotA Interference support" ],
+		"1.0.0" : [ "Initial release" ]
+	},
 	"objects": [
 		"config/marketOfTime.json"
 	],
