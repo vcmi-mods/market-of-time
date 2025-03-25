@@ -18,8 +18,8 @@
 				"rmg": {
 					"value" : 8000,
 					"mapLimit": 50,
-					"zoneLimit" : 20,
-					"rarity" : 50
+					"zoneLimit" : 2,
+					"rarity" : 200
 				},
 				
 				"aiValue" : 8000,
