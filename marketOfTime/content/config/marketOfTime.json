@@ -43,7 +43,7 @@
 							}
 						},
 						"secondary": {
-							  "pathfinding"  : 0
+							  "pathfinding": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -60,7 +60,7 @@
 							}
 						},
 						"secondary": {
-							  "archery"  : 0
+							  "archery": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -77,7 +77,7 @@
 							}
 						},
 						"secondary": {
-							  "logistics"  : 0
+							  "logistics": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -94,7 +94,7 @@
 							}
 						},
 						"secondary": {
-							  "scouting"  : 0
+							  "scouting": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -111,7 +111,7 @@
 							}
 						},
 						"secondary": {
-							  "diplomacy"  : 0
+							  "diplomacy": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -128,7 +128,7 @@
 							}
 						},
 						"secondary": {
-							  "navigation"  : 0
+							  "navigation": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -145,7 +145,7 @@
 							}
 						},
 						"secondary": {
-							  "leadership"  : 0
+							  "leadership": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -162,7 +162,7 @@
 							}
 						},
 						"secondary": {
-							  "wisdom"  : 0
+							  "wisdom": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -179,7 +179,7 @@
 							}
 						},
 						"secondary": {
-							  "mysticism"  : 0
+							  "mysticism": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -196,7 +196,7 @@
 							}
 						},
 						"secondary": {
-							  "luck"  : 0
+							  "luck": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -213,7 +213,7 @@
 							}
 						},
 						"secondary": {
-							  "ballistics"  : 0
+							  "ballistics": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -230,7 +230,7 @@
 							}
 						},
 						"secondary": {
-							  "eagleEye"  : 0
+							  "eagleEye": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -247,7 +247,7 @@
 							}
 						},
 						"secondary": {
-							  "necromancy"  : 0
+							  "necromancy": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -264,7 +264,7 @@
 							}
 						},
 						"secondary": {
-							  "estates"  : 0
+							  "estates": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -281,7 +281,7 @@
 							}
 						},
 						"secondary": {
-							  "fireMagic"  : 0
+							  "fireMagic": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -298,7 +298,7 @@
 							}
 						},
 						"secondary": {
-							  "airMagic"  : 0
+							  "airMagic": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -315,7 +315,7 @@
 							}
 						},
 						"secondary": {
-							  "waterMagic"  : 0
+							  "waterMagic": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -332,7 +332,7 @@
 							}
 						},
 						"secondary": {
-							  "earthMagic"  : 0
+							  "earthMagic": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -349,7 +349,7 @@
 							}
 						},
 						"secondary": {
-							  "scholar"  : 0
+							  "scholar": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -366,7 +366,7 @@
 							}
 						},
 						"secondary": {
-							  "tactics"  : 0
+							  "tactics": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -384,7 +384,7 @@
 							}
 						},
 						"secondary": {
-							  "artillery"  : 0
+							  "artillery": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -401,7 +401,7 @@
 							}
 						},
 						"secondary": {
-							  "learning"  : 0
+							  "learning": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -418,7 +418,7 @@
 							}
 						},
 						"secondary": {
-							  "offence"  : 0
+							  "offence": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -435,7 +435,7 @@
 							}
 						},
 						"secondary": {
-							  "armorer"  : 0
+							  "armorer": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -452,7 +452,7 @@
 							}
 						},
 						"secondary": {
-							  "intelligence"  : 0
+							  "intelligence": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -469,7 +469,7 @@
 							}
 						},
 						"secondary": {
-							  "sorcery"  : 0
+							  "sorcery": -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -486,7 +486,7 @@
 							}
 						},
 						"secondary": {
-							  "resistance"  : 0
+							  "resistance" : -3
 						},
 						"resources" : { 
 							"gold" : -5000
@@ -503,7 +503,7 @@
 							}
 						},
 						"secondary": {
-							  "firstAid"  : 0
+							  "firstAid": -3
 						},
 						"resources" : { 
 							"gold" : -5000

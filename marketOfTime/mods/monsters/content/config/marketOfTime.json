@@ -2,536 +2,61 @@
 	"core:marketOfTime": {
 		"types": {
 			"marketOfTime": {
-				"rewards": [
-					{
-						"limiter": {
-							"secondary" : { 
-								"pathfinding" : 1
+				"rewards": {
+					"appendItems" :	[
+						{
+							"limiter": {
+								"secondary" : { 
+									"endurance" : 1
+								},
+								"resources" : {
+										"gold" : 5000
+								}
 							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "pathfinding"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"archery" : 1
+							"secondary": {
+								  "endurance"  : -3
 							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "archery"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"logistics" : 1
+							"resources" : { 
+								"gold" : -5000
 							},
-							"resources" : {
-								"gold" : 5000
-							}
+							"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
 						},
-						"secondary": {
-							  "logistics"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"scouting" : 1
+						{
+							"limiter": {
+								"secondary" : { 
+									"fame" : 1
+								},
+								"resources" : {
+										"gold" : 5000
+								}
 							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "scouting"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"diplomacy" : 1
+							"secondary": {
+								  "fame"  : -3
 							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "diplomacy"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"navigation" : 1
+							"resources" : { 
+								"gold" : -5000
 							},
-							"resources" : {
-								"gold" : 5000
-							}
+							"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
 						},
-						"secondary": {
-							  "navigation"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"leadership" : 1
+						{
+							"limiter": {
+								"secondary" : { 
+									"warding" : 1
+								},
+								"resources" : {
+										"gold" : 5000
+								}
 							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "leadership"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"wisdom" : 1
+							"secondary": {
+								  "warding"  : -3
 							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "wisdom"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"mysticism" : 1
+							"resources" : { 
+								"gold" : -5000
 							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "mysticism"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"luck" : 1
-							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "luck"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"ballistics" : 1
-							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "ballistics"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"eagleEye" : 1
-							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "eagleEye"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"necromancy" : 1
-							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "necromancy"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"estates" : 1
-							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "estates"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"fireMagic" : 1
-							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "fireMagic"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"airMagic" : 1
-							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "airMagic"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"waterMagic" : 1
-							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "waterMagic"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
+							"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
 						}
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"earthMagic" : 1
-							},
-							"resources" : {
-								
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "earthMagic"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"scholar" : 1
-							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "scholar"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"tactics" : 1
-							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "tactics"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"artillery" : 1
-							},
-							"resources" : {
-								
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "artillery"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"learning" : 1
-							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "learning"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"offence" : 1
-							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "offence"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"armorer" : 1
-							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "armorer"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"intelligence" : 1
-							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "intelligence"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"sorcery" : 1
-							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "sorcery"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"resistance" : 1
-							},
-							"resources" : {
-								"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "resistance"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"firstAid" : 1
-							},
-							"resources" : {
-									"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "firstAid"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"endurance" : 1
-							},
-							"resources" : {
-									"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "endurance"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"fame" : 1
-							},
-							"resources" : {
-									"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "fame"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					},
-					{
-						"limiter": {
-							"secondary" : { 
-								"warding" : 1
-							},
-							"resources" : {
-									"gold" : 5000
-							}
-						},
-						"secondary": {
-							  "warding"  : 0
-						},
-						"resources" : { 
-							"gold" : -5000
-						},
-						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
-					}
-				]
+					]
+				}
 			}
 		}
 	}
