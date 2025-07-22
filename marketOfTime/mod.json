@@ -4,12 +4,13 @@
 	"modType": "Objects",
 	"author": "George King",
 	"contact": "http://forum.vcmi.eu/index.php",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"compatibility" : {
                 "min" : "1.7.0"
 	},
 	"changelog" : 
-	{ 
+	{
+		"1.0.8" : [ "Added Omnimancy compatibility" ],
 		"1.0.7" : [ "Added compatibility with New Skills Pack Anatomy + Fury + Impact + Magic Fader + Nimbleness and Andruids Expansions Initiative + Powerbond" ],
 		"1.0.6" : [ "Updated to 1.7 format" ],
 		"1.0.5" : [ "New Monsters Pack Endurance + Fame + Warding with HotA Interference / ToW Intimidation + Hexes support" ],
