@@ -1,17 +1,17 @@
 {
-	"name": "Market of Time",
-	"description": "Restores and reimagines the unused 'Market of Time' object, which appeared in Heroes III: Restoration of Erathia without functionality. Now, this mysterious place allows heroes to forget one of their learned secondary skills once per month—for a price.",
-	"modType": "Compatibility",
-	"author": "George King",
-	"contact": "http://forum.vcmi.eu/index.php",
-	"version": "1.0",
-    "compatibility" : {
-        "min" : "1.7.0"
-    },
+	"name" : "Market of Time",
+	"description" : "Restores and reimagines the unused 'Market of Time' object, which appeared in Heroes III: Restoration of Erathia without functionality. Now, this mysterious place allows heroes to forget one of their learned secondary skills once per month—for a price.",
+	"modType" : "Compatibility",
+	"author" : "George King",
+	"contact" : "http://forum.vcmi.eu/index.php",
+	"version" : "1.0",
+	"compatibility" : {
+		"min" : "1.7.0"
+	},
 	"depends" : [
 		"new-skills-pack.anatomy"
 	],
-	"objects": [
+	"objects" : [
 		"config/marketOfTime.json"
 	]
 }

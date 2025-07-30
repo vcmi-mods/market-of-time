@@ -1,22 +1,21 @@
 {
-	"core:marketOfTime": {
-		"types": {
-			"marketOfTime": {
-				"rewards": {
-					"append" :
-					{
-						"limiter": {
-							"secondary" : { 
+	"core:marketOfTime" : {
+		"types" : {
+			"marketOfTime" : {
+				"rewards" : {
+					"append" : {
+						"limiter" : {
+							"secondary" : {
 								"omnimancy" : 1
 							},
 							"resources" : {
-									"gold" : 5000
+								"gold" : 5000
 							}
 						},
-						"secondary": {
-							  "omnimancy"  : -3
+						"secondary" : {
+							"omnimancy" : -3
 						},
-						"resources" : { 
+						"resources" : {
 							"gold" : -5000
 						},
 						"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""

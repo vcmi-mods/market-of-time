@@ -1,45 +1,62 @@
 {
-	"name": "Market of Time",
-	"description": "Restores and reimagines the unused 'Market of Time' object, which appeared in Heroes III: Restoration of Erathia without functionality. Now, this mysterious place allows heroes to forget one of their learned secondary skills once per month—for a price.",
-	"modType": "Objects",
-	"author": "George King",
-	"contact": "http://forum.vcmi.eu/index.php",
-	"version": "1.0.8",
+	"name" : "Market of Time",
+	"description" : "Restores and reimagines the unused 'Market of Time' object, which appeared in Heroes III: Restoration of Erathia without functionality. Now, this mysterious place allows heroes to forget one of their learned secondary skills once per month—for a price.",
+	"modType" : "Objects",
+	"author" : "George King",
+	"contact" : "http://forum.vcmi.eu/index.php",
+	"version" : "1.0.8",
 	"compatibility" : {
-                "min" : "1.7.0"
+		"min" : "1.7.0"
 	},
-	"changelog" : 
-	{
-		"1.0.8" : [ "Added Omnimancy compatibility" ],
-		"1.0.7" : [ "Added compatibility with New Skills Pack Anatomy + Fury + Impact + Magic Fader + Nimbleness and Andruids Expansions Initiative + Powerbond" ],
-		"1.0.6" : [ "Updated to 1.7 format" ],
-		"1.0.5" : [ "New Monsters Pack Endurance + Fame + Warding with HotA Interference / ToW Intimidation + Hexes support" ],
-		"1.0.4" : [ "New Monsters Pack Endurance + Fame + Warding support" ],
-		"1.0.3" : [ "ToW Intimidation + Hexes with HotA Interference together support" ],
-		"1.0.2" : [ "ToW Intimidation + Hexes support" ],
-		"1.0.1" : [ "HotA Interference support" ],
-		"1.0.0" : [ "Initial release" ]
+	"changelog" : {
+		"1.0.8" : [
+			"Added Omnimancy compatibility"
+		],
+		"1.0.7" : [
+			"Added compatibility with New Skills Pack Anatomy + Fury + Impact + Magic Fader + Nimbleness and Andruids Expansions Initiative + Powerbond"
+		],
+		"1.0.6" : [
+			"Updated to 1.7 format"
+		],
+		"1.0.5" : [
+			"New Monsters Pack Endurance + Fame + Warding with HotA Interference / ToW Intimidation + Hexes support"
+		],
+		"1.0.4" : [
+			"New Monsters Pack Endurance + Fame + Warding support"
+		],
+		"1.0.3" : [
+			"ToW Intimidation + Hexes with HotA Interference together support"
+		],
+		"1.0.2" : [
+			"ToW Intimidation + Hexes support"
+		],
+		"1.0.1" : [
+			"HotA Interference support"
+		],
+		"1.0.0" : [
+			"Initial release"
+		]
 	},
-	"objects": [
+	"objects" : [
 		"config/marketOfTime.json"
 	],
-	"chinese": {
-		"name": "时间市场",
-		"description": "还原并重新设计了《英雄无敌 III：埃拉西亚的光复》中出现但无功能的“时间市场”物体。现在，这个神秘的建筑允许英雄每月付费遗忘一项学过的辅助技能。",
+	"chinese" : {
+		"name" : "时间市场",
+		"description" : "还原并重新设计了《英雄无敌 III：埃拉西亚的光复》中出现但无功能的“时间市场”物体。现在，这个神秘的建筑允许英雄每月付费遗忘一项学过的辅助技能。",
 		"translations" : [
 			"translation/chinese.json"
 		]
 	},
-	"czech": {
-		"name": "Trh času",
-		"description": "Oživuje a přepracovává objekt „Trh času“, který se objevil v Heroes III: Restoration of Erathia, ale nikdy nedostal žádnou funkci. Nyní toto tajuplné místo umožňuje hrdinům zapomenout jednu ze svých sekundárních dovedností jednou za měsíc – za úplatu.",
+	"czech" : {
+		"name" : "Trh času",
+		"description" : "Oživuje a přepracovává objekt „Trh času“, který se objevil v Heroes III: Restoration of Erathia, ale nikdy nedostal žádnou funkci. Nyní toto tajuplné místo umožňuje hrdinům zapomenout jednu ze svých sekundárních dovedností jednou za měsíc – za úplatu.",
 		"translations" : [
 			"translation/czech.json"
 		]
 	},
-	"polish": {
-		"name": "Targ Czasu",
-		"description": "Przywraca i przekształca obiekt 'Targ Czasu', który pojawił się w Heroes III: Restoration of Erathia, lecz nie posiadał żadnej funkcji. Teraz to tajemnicze miejsce pozwala bohaterom zapomnieć jedną z umiejętności drugorzędnych raz w miesiącu – za opłatą.",
+	"polish" : {
+		"name" : "Targ Czasu",
+		"description" : "Przywraca i przekształca obiekt 'Targ Czasu', który pojawił się w Heroes III: Restoration of Erathia, lecz nie posiadał żadnej funkcji. Teraz to tajemnicze miejsce pozwala bohaterom zapomnieć jedną z umiejętności drugorzędnych raz w miesiącu – za opłatą.",
 		"translations" : [
 			"translation/polish.json"
 		]

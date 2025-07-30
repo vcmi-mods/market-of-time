@@ -1,56 +1,56 @@
 {
-	"core:marketOfTime": {
-		"types": {
-			"marketOfTime": {
-				"rewards": {
-					"appendItems" :	[
+	"core:marketOfTime" : {
+		"types" : {
+			"marketOfTime" : {
+				"rewards" : {
+					"appendItems" : [
 						{
-							"limiter": {
-								"secondary" : { 
+							"limiter" : {
+								"secondary" : {
 									"endurance" : 1
 								},
 								"resources" : {
-										"gold" : 5000
+									"gold" : 5000
 								}
 							},
-							"secondary": {
-								  "endurance"  : -3
+							"secondary" : {
+								"endurance" : -3
 							},
-							"resources" : { 
+							"resources" : {
 								"gold" : -5000
 							},
 							"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
 						},
 						{
-							"limiter": {
-								"secondary" : { 
+							"limiter" : {
+								"secondary" : {
 									"fame" : 1
 								},
 								"resources" : {
-										"gold" : 5000
+									"gold" : 5000
 								}
 							},
-							"secondary": {
-								  "fame"  : -3
+							"secondary" : {
+								"fame" : -3
 							},
-							"resources" : { 
+							"resources" : {
 								"gold" : -5000
 							},
 							"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
 						},
 						{
-							"limiter": {
-								"secondary" : { 
+							"limiter" : {
+								"secondary" : {
 									"warding" : 1
 								},
 								"resources" : {
-										"gold" : 5000
+									"gold" : 5000
 								}
 							},
-							"secondary": {
-								  "warding"  : -3
+							"secondary" : {
+								"warding" : -3
 							},
-							"resources" : { 
+							"resources" : {
 								"gold" : -5000
 							},
 							"message" : "{Market of Time}\n\nYou step into the Market of Time, where the keeper of time greets you solemnly.\n\n\"Only one memory remains... I can help you let go of this last skill—if you so choose.\""
