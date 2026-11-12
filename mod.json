@@ -4,11 +4,14 @@
 	"modType" : "Objects",
 	"author" : "George King",
 	"contact" : "http://forum.vcmi.eu/index.php",
-	"version" : "1.0.9",
+	"version" : "1.0.10",
 	"compatibility" : {
 		"min" : "1.7.0"
 	},
 	"changelog" : {
+		"1.0.10" : [
+			"Updated to VCMI 1.8 format"
+		],
 		"1.0.9" : [
 			"Fixed languages mapping"
 		],

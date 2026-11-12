@@ -522,7 +522,7 @@
 				],
 
 				"resetParameters" : {
-					"period" : 28,
+					"months" : 1,
 					"visitors" : true,
 					"rewards" : true
 				},
